@@ -10,6 +10,17 @@
 		89CF3DA42099C64B003C8677 /* Beerboard_Beerchip_BWW_SDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89CF3D9A2099C64B003C8677 /* Beerboard_Beerchip_BWW_SDK.framework */; };
 		89CF3DA92099C64B003C8677 /* Beerboard_Beerchip_BWW_SDKTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DA82099C64B003C8677 /* Beerboard_Beerchip_BWW_SDKTests.swift */; };
 		89CF3DAB2099C64B003C8677 /* Beerboard_Beerchip_BWW_SDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 89CF3D9D2099C64B003C8677 /* Beerboard_Beerchip_BWW_SDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		89CF3DBF2099CC49003C8677 /* LocationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DB42099CC46003C8677 /* LocationTableViewCell.swift */; };
+		89CF3DC02099CC49003C8677 /* RedeemViewBeerchipTableTitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DB52099CC46003C8677 /* RedeemViewBeerchipTableTitleTableViewCell.swift */; };
+		89CF3DC12099CC49003C8677 /* BeerchipTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DB62099CC46003C8677 /* BeerchipTableViewCell.swift */; };
+		89CF3DC22099CC49003C8677 /* BeerboardBWWFrameworkStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89CF3DB72099CC46003C8677 /* BeerboardBWWFrameworkStoryboard.storyboard */; };
+		89CF3DC32099CC49003C8677 /* RedeemBeerchipViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DB82099CC46003C8677 /* RedeemBeerchipViewController.swift */; };
+		89CF3DC42099CC49003C8677 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DB92099CC46003C8677 /* WelcomeViewController.swift */; };
+		89CF3DC52099CC49003C8677 /* BWWAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89CF3DBA2099CC48003C8677 /* BWWAssets.xcassets */; };
+		89CF3DC62099CC49003C8677 /* RedeemviewBeerchipTableSubTitlesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DBB2099CC48003C8677 /* RedeemviewBeerchipTableSubTitlesTableViewCell.swift */; };
+		89CF3DC72099CC49003C8677 /* BeerChipTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DBC2099CC48003C8677 /* BeerChipTableViewController.swift */; };
+		89CF3DC82099CC49003C8677 /* BeerboardBWWViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DBD2099CC49003C8677 /* BeerboardBWWViewController.swift */; };
+		89CF3DC92099CC49003C8677 /* CashOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CF3DBE2099CC49003C8677 /* CashOutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +40,17 @@
 		89CF3DA32099C64B003C8677 /* Beerboard-Beerchip-BWW-SDKTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Beerboard-Beerchip-BWW-SDKTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		89CF3DA82099C64B003C8677 /* Beerboard_Beerchip_BWW_SDKTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Beerboard_Beerchip_BWW_SDKTests.swift; sourceTree = "<group>"; };
 		89CF3DAA2099C64B003C8677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89CF3DB42099CC46003C8677 /* LocationTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationTableViewCell.swift; sourceTree = "<group>"; };
+		89CF3DB52099CC46003C8677 /* RedeemViewBeerchipTableTitleTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedeemViewBeerchipTableTitleTableViewCell.swift; sourceTree = "<group>"; };
+		89CF3DB62099CC46003C8677 /* BeerchipTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeerchipTableViewCell.swift; sourceTree = "<group>"; };
+		89CF3DB72099CC46003C8677 /* BeerboardBWWFrameworkStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = BeerboardBWWFrameworkStoryboard.storyboard; sourceTree = "<group>"; };
+		89CF3DB82099CC46003C8677 /* RedeemBeerchipViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedeemBeerchipViewController.swift; sourceTree = "<group>"; };
+		89CF3DB92099CC46003C8677 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		89CF3DBA2099CC48003C8677 /* BWWAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = BWWAssets.xcassets; sourceTree = "<group>"; };
+		89CF3DBB2099CC48003C8677 /* RedeemviewBeerchipTableSubTitlesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedeemviewBeerchipTableSubTitlesTableViewCell.swift; sourceTree = "<group>"; };
+		89CF3DBC2099CC48003C8677 /* BeerChipTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeerChipTableViewController.swift; sourceTree = "<group>"; };
+		89CF3DBD2099CC49003C8677 /* BeerboardBWWViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeerboardBWWViewController.swift; sourceTree = "<group>"; };
+		89CF3DBE2099CC49003C8677 /* CashOutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CashOutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +94,17 @@
 			isa = PBXGroup;
 			children = (
 				89CF3D9D2099C64B003C8677 /* Beerboard_Beerchip_BWW_SDK.h */,
+				89CF3DBD2099CC49003C8677 /* BeerboardBWWViewController.swift */,
+				89CF3DB92099CC46003C8677 /* WelcomeViewController.swift */,
+				89CF3DB62099CC46003C8677 /* BeerchipTableViewCell.swift */,
+				89CF3DBC2099CC48003C8677 /* BeerChipTableViewController.swift */,
+				89CF3DBE2099CC49003C8677 /* CashOutViewController.swift */,
+				89CF3DB42099CC46003C8677 /* LocationTableViewCell.swift */,
+				89CF3DB82099CC46003C8677 /* RedeemBeerchipViewController.swift */,
+				89CF3DBB2099CC48003C8677 /* RedeemviewBeerchipTableSubTitlesTableViewCell.swift */,
+				89CF3DB52099CC46003C8677 /* RedeemViewBeerchipTableTitleTableViewCell.swift */,
+				89CF3DB72099CC46003C8677 /* BeerboardBWWFrameworkStoryboard.storyboard */,
+				89CF3DBA2099CC48003C8677 /* BWWAssets.xcassets */,
 				89CF3D9E2099C64B003C8677 /* Info.plist */,
 			);
 			path = "Beerboard-Beerchip-BWW-SDK";
@@ -148,6 +181,7 @@
 				TargetAttributes = {
 					89CF3D992099C64B003C8677 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 0930;
 					};
 					89CF3DA22099C64B003C8677 = {
 						CreatedOnToolsVersion = 9.3;
@@ -177,6 +211,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89CF3DC22099CC49003C8677 /* BeerboardBWWFrameworkStoryboard.storyboard in Resources */,
+				89CF3DC52099CC49003C8677 /* BWWAssets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,6 +230,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89CF3DC82099CC49003C8677 /* BeerboardBWWViewController.swift in Sources */,
+				89CF3DC32099CC49003C8677 /* RedeemBeerchipViewController.swift in Sources */,
+				89CF3DC42099CC49003C8677 /* WelcomeViewController.swift in Sources */,
+				89CF3DC12099CC49003C8677 /* BeerchipTableViewCell.swift in Sources */,
+				89CF3DC02099CC49003C8677 /* RedeemViewBeerchipTableTitleTableViewCell.swift in Sources */,
+				89CF3DBF2099CC49003C8677 /* LocationTableViewCell.swift in Sources */,
+				89CF3DC62099CC49003C8677 /* RedeemviewBeerchipTableSubTitlesTableViewCell.swift in Sources */,
+				89CF3DC92099CC49003C8677 /* CashOutViewController.swift in Sources */,
+				89CF3DC72099CC49003C8677 /* BeerChipTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,6 +384,7 @@
 		89CF3DAF2099C64B003C8677 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
@@ -356,6 +402,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.vmoksha.Beerboard-Beerchip-BWW-SDK";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -364,6 +411,7 @@
 		89CF3DB02099C64B003C8677 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
@@ -389,6 +437,7 @@
 		89CF3DB22099C64B003C8677 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DH337745N2;
 				INFOPLIST_FILE = "Beerboard-Beerchip-BWW-SDKTests/Info.plist";
@@ -407,6 +456,7 @@
 		89CF3DB32099C64B003C8677 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DH337745N2;
 				INFOPLIST_FILE = "Beerboard-Beerchip-BWW-SDKTests/Info.plist";
